@@ -4,4 +4,4 @@ A project page for our ACM MM 2022 paper "mmBody Benchmark: 3D Body Reconstructi
 
 # Copyright
 
-Modified from gkioxari.github.io/blob/master/usl/
+Modified from [gkioxari.github.io/blob/master/usl/](https://gkioxari.github.io/usl/index.html)
